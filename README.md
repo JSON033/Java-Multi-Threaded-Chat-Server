@@ -1,6 +1,6 @@
 # Java Multi-Threaded Chat Server
  
-## Java based internet chat application with multi-threading allowing any number of clients with broadcasting
+## -Java based internet chat application with multi-threading allowing any number of clients with broadcasting
 
 ## Use of ServerSocket, Socket, DataInputStream and DataOutputStream, connecting Client and Server following TCP protocol and OSI model.
 
